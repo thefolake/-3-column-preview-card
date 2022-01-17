@@ -9,7 +9,7 @@ import Button from "./components/button/button";
 
 function App() {
   return (
-    <div className="container">
+    <main className="container">
       <Card
           icon={<Sedan/>}
           title='Sedans'
@@ -42,7 +42,7 @@ function App() {
               Learn More
           </Button>
       </Card>
-    </div>
+    </main>
   );
 }
 
