@@ -6,7 +6,6 @@ import { ReactComponent as Suv } from './images/icon-suvs.svg';
 import { ReactComponent as Luxury } from './images/icon-luxury.svg';
 import Button from "./components/button/button";
 
-
 function App() {
   return (
     <main className="container">
