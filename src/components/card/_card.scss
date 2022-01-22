@@ -32,8 +32,12 @@
 
 @media only screen and (max-width: 750px) {
   .card {
-    height: 410px;
+    height: 385px;
     padding: 28px;
     width: 280px;
+  }
+
+  .card p {
+    margin-bottom: 45px;
   }
 }
